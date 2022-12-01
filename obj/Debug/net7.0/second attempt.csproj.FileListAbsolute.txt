@@ -1,0 +1,15 @@
+/Users/jordanwolter/Prime/week16/second attempt/bin/Debug/net7.0/second attempt
+/Users/jordanwolter/Prime/week16/second attempt/bin/Debug/net7.0/second attempt.deps.json
+/Users/jordanwolter/Prime/week16/second attempt/bin/Debug/net7.0/second attempt.runtimeconfig.json
+/Users/jordanwolter/Prime/week16/second attempt/bin/Debug/net7.0/second attempt.dll
+/Users/jordanwolter/Prime/week16/second attempt/bin/Debug/net7.0/second attempt.pdb
+/Users/jordanwolter/Prime/week16/second attempt/obj/Debug/net7.0/second attempt.csproj.AssemblyReference.cache
+/Users/jordanwolter/Prime/week16/second attempt/obj/Debug/net7.0/second attempt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordanwolter/Prime/week16/second attempt/obj/Debug/net7.0/second attempt.AssemblyInfoInputs.cache
+/Users/jordanwolter/Prime/week16/second attempt/obj/Debug/net7.0/second attempt.AssemblyInfo.cs
+/Users/jordanwolter/Prime/week16/second attempt/obj/Debug/net7.0/second attempt.csproj.CoreCompileInputs.cache
+/Users/jordanwolter/Prime/week16/second attempt/obj/Debug/net7.0/second attempt.dll
+/Users/jordanwolter/Prime/week16/second attempt/obj/Debug/net7.0/refint/second attempt.dll
+/Users/jordanwolter/Prime/week16/second attempt/obj/Debug/net7.0/second attempt.pdb
+/Users/jordanwolter/Prime/week16/second attempt/obj/Debug/net7.0/second attempt.genruntimeconfig.cache
+/Users/jordanwolter/Prime/week16/second attempt/obj/Debug/net7.0/ref/second attempt.dll
